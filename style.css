@@ -1,0 +1,67 @@
+.stylus-image{
+    background-image: url("car.jpg");
+    background-position: center;
+    height: 75vh;
+    background-size: cover;
+}
+
+.input-view{
+    height: 12vh;
+}
+
+.main-view{
+    height: 15vh;
+}
+
+.main-view-2{
+    height: 40vh;
+}
+
+.main-view-3{
+    height: 10vh;
+}
+
+.empty-space-buttons{
+    height: 1vh;
+}
+
+body{
+    font-family: 'Righteous', cursive;
+}
+
+.body{
+    background-color: rgb(231, 236, 255)!important;
+}
+
+.bg-dark{
+    background-color: black!important;
+}
+
+.text-black{
+    color: rgb(81, 79, 212)!important;
+}
+
+.btn-dark{
+    background-color: black!important;
+}
+
+.navbar-height{
+    height: 7vh;
+}
+
+
+.mt-6{
+    margin: 5rem;
+}
+
+.position-revlative{
+    position: relative;
+}
+
+.text-danger{
+    color: rgb(255, 94, 94)!important;
+}
+
+.text-warning{
+    color: rgb(255, 149, 61)!important;
+}
