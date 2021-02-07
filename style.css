@@ -1,5 +1,5 @@
 .stylus-image{
-    background-image: url("adrian.jpg");
+    background-image: url("levan.jpg");
     background-position: center;
     height: 75vh;
     background-size: cover;
@@ -11,14 +11,6 @@
 
 .main-view{
     height: 45vh;
-}
-
-.main-view-2{
-    height: 40vh;
-}
-
-.main-view-3{
-    height: 10vh;
 }
 
 .empty-space-buttons{
