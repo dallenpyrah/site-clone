@@ -1,5 +1,5 @@
 .stylus-image{
-    background-image: url("car.jpg");
+    background-image: url("adrian.jpg");
     background-position: center;
     height: 75vh;
     background-size: cover;
@@ -10,7 +10,7 @@
 }
 
 .main-view{
-    height: 15vh;
+    height: 45vh;
 }
 
 .main-view-2{
@@ -49,19 +49,18 @@ body{
     height: 7vh;
 }
 
-
-.mt-6{
-    margin: 5rem;
-}
-
-.position-revlative{
-    position: relative;
-}
-
 .text-danger{
     color: rgb(255, 94, 94)!important;
 }
 
-.text-warning{
-    color: rgb(255, 149, 61)!important;
+
+.card-view{
+    top: 4rem;
 }
+
+@media (max-width: 767.98px){
+    .card-view{
+        top: 0rem;
+    }
+}
+
